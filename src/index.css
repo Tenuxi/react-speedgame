@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Turret+Road&display=swap");
+
+body {
+  background-image: radial-gradient(circle, #9ab0d1, #28c5f3, #00dae6, #00e89f, #54eb12);
+  font-family: 'Turret Road', cursive;
+  text-align: center;
+  background-position: fixed;
+}
+
+h1{
+  font-size: 3em;
+}
+
+#napit button{
+  margin: 0 10px 0 10px;
+  background-color: #181818;
+  color: #ffffff;
+  padding: 5px;
+  border: 1px solid #000000;
+  border-radius: 4px;
+  box-shadow: 3px 3px 3px #ffffff;
+}
